@@ -14,3 +14,4 @@ hello world! hello git!
 hhhhhh
 hot-fix
 reset
+hot-fix test
