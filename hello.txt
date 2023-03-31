@@ -17,3 +17,5 @@ reset
 hot-fix test
 
 final test
+
+test-github
